@@ -20,4 +20,4 @@ I specialize in:
 
 ## Certifications
 
-< a href="https://www.credential.net/d1c62256-3087-420b-8fed-6787f98ff00d#acc.ePcSX7bq"><img decoding="async" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/129435109" title="Google Analytics Certified - Jennifer Ubaldo" alt="Google Analytics Certified Badge" loading="lazy"></a>
+<a href="https://www.credential.net/d1c62256-3087-420b-8fed-6787f98ff00d#acc.ePcSX7bq"><img decoding="async" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/129435109" title="Google Analytics Certified - Jennifer Ubaldo" alt="Google Analytics Certified Badge" loading="lazy"></a>
