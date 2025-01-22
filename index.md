@@ -4,7 +4,7 @@ layout: default
 
 # 👋 Hi, I'm Jenn!
 
-## I'm a data analyst with a knack for turning raw data into meaningful insights. 
+### I'm a data analyst with a knack for turning raw data into meaningful insights. 
 
 I specialize in:
 
@@ -20,6 +20,4 @@ I specialize in:
 
 ## Certifications
 
-![alt text][gabadge]
-
-[gabadge]: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/129435109 "Jennifer Ubaldo - Google Analytics Certified"
+< a href="https://www.credential.net/d1c62256-3087-420b-8fed-6787f98ff00d#acc.ePcSX7bq"><img decoding="async" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/129435109" title="Google Analytics Certified - Jennifer Ubaldo" alt="Google Analytics Certified Badge" loading="lazy"></a>
