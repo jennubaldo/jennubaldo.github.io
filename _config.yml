@@ -1,7 +1,7 @@
 title: Jenn Ubaldo - Data Analyst
 logo: "/images/Jenn-Profile-opt-blue.png"
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: "Hi, I'm Jenn! 👋 🌟 I’m currently diving deeper into coding for data science and analytics."
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
